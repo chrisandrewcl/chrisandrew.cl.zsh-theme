@@ -1,4 +1,9 @@
 # chrisandrew.cl ZSH Theme
+#
+# Guake config
+# font: Ubuntu Mono derivative Powerline 12
+# Palette: Solarized Dark
+# Transparency: 5
 
 PROMPT='
 ${_current_dir} $(_prompt_git)
@@ -18,6 +23,8 @@ ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
 
 ZSH_THEME_GIT_PROMPT_DIRTY=" %{$fg[red]%}✗%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_CLEAN=" %{$fg[green]%}✔%{$reset_color%}"
+
+zle_highlight=( default:bold fg=white )
 
 export GREP_COLORS="mc=00;36:ms=31:mt=01;38:ln=31"
 
