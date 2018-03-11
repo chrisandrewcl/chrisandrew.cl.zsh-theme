@@ -1,9 +1,4 @@
 # chrisandrew.cl ZSH Theme
-#
-# Guake config
-# font: Ubuntu Mono derivative Powerline 12
-# Palette: Solarized Dark
-# Transparency: 5
 
 PROMPT='
 ${_current_dir} $(_prompt_git)
