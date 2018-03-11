@@ -1,7 +1,7 @@
 # [chrisandrew.cl](https://chrisandrew.cl) theme for Oh My ZSH
 
 <p align="center">
-![](https://raw.githubusercontent.com/chrisandrewcl/chrisandrew.cl.zsh-theme/master/chrisandrew.cl.png)
+<img src="https://raw.githubusercontent.com/chrisandrewcl/chrisandrew.cl.zsh-theme/master/chrisandrew.cl.png" alt="Oh My ZSH custom theme">
 </p>
 
 This is a custom theme I made for my personal use, so I did not bother thinking of a good name for it.
